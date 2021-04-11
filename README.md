@@ -68,8 +68,8 @@ At each stage of the medicines' trip from the donor to the recipient, a bar-code
 Pillarity uses a number of open source projects to work properly:
 
 - [Flutter](https://flutter.dev/docs)  - Flutter for application interface
-- [Dart](https://dart.dev/guides) - Dart 
-- [FireBase](https://firebase.google.com/) - FireBase for Authentication and Database 
+- [Dart](https://dart.dev/guides) - Dart
+- [FireBase](https://firebase.google.com/) - FireBase for Authentication and Database
 - [Sqflite](https://pub.dev/packages/sqflite) - Sqflite for DataBase
 
 ## Installation :sparkler:
